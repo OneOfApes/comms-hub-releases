@@ -1,6 +1,6 @@
 {
-  "version": "0.5.9",
-  "url": "https://raw.githubusercontent.com/OneOfApes/comms-hub-releases/main/ota/app-0.5.9.bundle",
-  "sha256": "058d0ef97284d6d9effa1443ea1a721495d4ff5e078c75f1ca6ec5235d6b8ce3",
-  "sig": "OEd/rvhS0PiZrXeYxcPth0MpAyS37ngZ0Q/5M1SCtebaDU2y4YEuaTWqfSZ50QypgmrBVp+qA/Ed/UUCbuIUBg=="
+  "version": "0.5.10",
+  "url": "https://raw.githubusercontent.com/OneOfApes/comms-hub-releases/main/ota/app-0.5.10.bundle",
+  "sha256": "5df01097beb6c0ea748a348aca7567472cc13e6977b757dd82fd5a949e9c0755",
+  "sig": "ZlaXZhrhdPTQUxjnnIa/nGHFI/eMSyvorfZ0wU0VTzz7F/UskJIE3fJUKA+WbYuDOK6k0AEur0yn6SARMlpLBw=="
 }
